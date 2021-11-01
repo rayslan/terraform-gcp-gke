@@ -1,4 +1,6 @@
 ```
+Create a service account and add key as JSON.
+
 <!-- Authorize access to Google Cloud Platform with a service account -->
 gcloud auth activate-service-account SERVICE_ACCOUNT@DOMAIN.COM --key-file=/path/key.json --project=PROJECT_ID
 
